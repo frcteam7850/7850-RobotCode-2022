@@ -1,13 +1,2 @@
 # 7850-RobotCode-2022
-Team 7850's robot code for the 2022 Rapid React Season
-
-# Changelogs
-
-## [2/7/2022](https://github.com/frcteam7850/FRC-Team-7850-RobotCode-2022/tree/main/Main%20Robot%20Code%202.7.2022)
-- change over old code to new robot
-- striped program down to drive code
-- added PID controller
-
-## [2/17/2022](https://github.com/frcteam7850/FRC-Team-7850-RobotCode-2022/tree/main/Main%20Robot%20Code%202.17.2022)
-- not tested
-- change drive to use diffrental drive method
+FRC Team 7850's robot code for the 2022 Rapid React Season
